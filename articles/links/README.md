@@ -5,7 +5,7 @@ links:
   - title: Tischfussball
     items:
       - sitename: Kixx
-        url: https://kixx-hamburg.de
+        url: https://www.kixx-hamburg.de/
         img: /img/links/kixx.png
         desc: Kicker-Mekka in Hamburg
 
