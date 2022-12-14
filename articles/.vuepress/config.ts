@@ -60,6 +60,7 @@ export default defineUserConfig({
       description: "überbewaffnet seit 2019",
       sns: {
         github: "grothesk",
+        facebook: "altonaerkickerkollektiv",
         email: "malte.groth@gmx.net"
       }
     },
@@ -73,6 +74,10 @@ export default defineUserConfig({
       {
         path: "/img/home/team.jpeg",
         mask: "rgb(251, 170, 152, .2)"
+      },
+      {
+        path: "/img/home/pool.jpeg",
+        mask: "rgb(255, 255, 255, .3)"
       }
     ],
 

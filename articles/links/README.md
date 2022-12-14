@@ -14,14 +14,10 @@ links:
         img: /img/links/tfvhh.svg
         desc: Lokaler Tischfussbalverband
         
-  # - title: Sonstiges
-  #   items:
-  #     - sitename: VuePress 1
-  #       url: https://vuepress-theme-gungnir.vercel.app
-  #       img: /img/links/v1.svg
-  #       desc: VuePress 1 theme
-  #     - sitename: Jekyll
-  #       url: https://jekyll-theme-gungnir.vercel.app
-  #       img: /img/links/jekyll.png
-  #       desc: Jekyll theme
+  - title: Sonstiges
+    items:
+      - sitename: Deutsche Seemannsmission Hamburg Altona e.V.
+        url: https://www.seemannsmission-altona.org/
+        img: /img/links/mission.webp
+        desc: Die Mission
 ---
